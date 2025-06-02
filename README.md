@@ -7,7 +7,7 @@ This project focuses on predicting the risk of heart disease using machine learn
 ✔ **Data Analysis**: Explored 300K+ medical records to uncover trends in heart disease risk factors  
 ✔ **Machine Learning**: Built and compared KNN, XGBoost, and ANN models, achieving 91.9% accuracy  
 ✔ **Deep Learning**: Designed a Neural Network with BatchNorm & Dropout to enhance generalization  
-✔ **Model Evaluation**: Assessed performance using precision, recall, F1-score
+✔ **Model Evaluation**: Assessed performance using precision, recall, F1-score  
 ✔ **Visual Insights**: Generated heatmaps, histograms, and count plots to highlight key findings  
 
 ## Technologies Used
